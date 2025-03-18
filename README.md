@@ -26,10 +26,4 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - **CSS** → Estilização
 - **JavaScript** → Manipulação da lista e sorteio  
 
----
 
-## 📦 **Como Usar**
-
-### 🔹 1. Clonar o repositório  
-```bash
-git clone https://github.com/anneaiad/challenge-amigo-secreto.git
